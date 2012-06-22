@@ -1,0 +1,17 @@
+/* 
+    Document   : style
+    Created on : 21.06.2012, 3:27:45
+    Author     : vostroknutov
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#error, #success
+{
+    
+    display: none;
+}
